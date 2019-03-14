@@ -10,7 +10,7 @@ import visuals as vs
 %matplotlib inline
 
 # Load the Census dataset
-data = pd.read_csv(r"C:\Users\wsoo\Documents\GitHub\machine-learning\projects\2. finding_donors\census.csv")
+data = pd.read_csv('census.csv')
 
 
 #understanding the data
